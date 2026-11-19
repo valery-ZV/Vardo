@@ -1,0 +1,28 @@
+VARDO/
+│
+├── frontend/
+│   ├── index.html
+│   ├── pages/
+│   │   ├── tienda.html
+│   │   ├── nosotros.html
+│   │   ├── faq.html
+│   │   ├── login.html
+│   │   ├── registro.html
+│   │   ├── perfil.html
+│   │   ├── tickets.html
+│   │   └── admin.html
+│   │
+│   ├── css/
+│   │   ├── style.css
+│   │   ├── tienda.css
+│   │   ├── dashboard.css
+│   │   └── responsive.css
+│   │
+│   └── js/
+│       ├── main.js
+│       ├── productos.js
+│       ├── auth.js
+│       ├── tickets.js
+│       └── api.js
+│
+└── backend/
